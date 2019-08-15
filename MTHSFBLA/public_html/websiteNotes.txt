@@ -1,0 +1,28 @@
+- add officer positions on 'About' page
+- use of CDN (Content-Delivery-Network)
+- sources used: 
+- https://www.w3schools.com/bootstrap/bootstrap_grid_stacked_to_horizontal.asp (for Resources page)
+- http://mthsfbla.com/#/
+- https://github.com/buckyroberts/Source-Code-from-Tutorials/blob/master/Bootstrap/001_template.html
+- https://getbootstrap.com (used Bootstrap 3.3.4)
+- https://bootswatch.com/ (Free Bootstrap themes)
+- https://www.w3.org/wiki/Creating_multiple_pages_with_navigation_menus
+- https://getbootstrap.com/docs/4.0/components/card/ (Bootstrap card --> really cool but didn't use)
+- https://stackoverflow.com/questions/23379318/have-thumbnails-with-different-images-sizes-bootstrap
+- https://www.w3schools.com/bootstrap/bootstrap_buttons.asp (bootstrap buttons)
+-https://stackoverflow.com/questions/10103692/horizontally-align-thumbnails-in-center
+- https://getbootstrap.com/docs/3.3/components/#jumbotron (Bootstrap 3 components)
+- change the calendar origin from my (shyam.mehta20@montville.net) account to fbla.mths@gmail.com account.
+- the new competitive form for 2018-19 FBLA season has to go up
+- "Copyright Montville FBLA Webmaster" can be changed to "Copyright Shyam Mehta" (if necessary)
+- update all external links/documents (e.g. points spreadsheet, etc.)
+- when additional resources are to be posted in the 'Resources' page, change the code so that its not two containers/thumbail side by side
+--> first three lines of thumbnail CODE should be:
+<div class="container row">
+	<div class="">
+ 		<div class="thumbnail" style="width: 100%; height: 100%">
+		...
+
+
+- website published on surge DNS at healthy-tramp.surge.sh
+- website published on www at mthsfbla.com
